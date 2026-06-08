@@ -1,4 +1,4 @@
-﻿# AutoChatCopy
+# AutoChatCopy
 
 Adds a copy button to chat windows and opens a copy-ready text dialog.
 
