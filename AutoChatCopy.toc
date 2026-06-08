@@ -1,0 +1,8 @@
+## Interface: 120005
+## Title: AutoChatCopy
+## Notes: Adds a copy button to chat windows and opens a copy-ready text dialog.
+## Author: Hydrospanners
+## Version: 1.0.5
+## Category: Chat
+
+AutoChatCopy.lua
